@@ -22,7 +22,7 @@ class FlightSearch:
             "date_to": self.seven_days_from_now.strftime("%d/%m/%Y"),
         }
         self.headers = {
-            "apikey": "lUGsr4ret_idQLtf7p7uAUj98A8ODlUy"
+            "apikey": #insert your api key here
         }
 
     def search_flight(self, destination, price):
