@@ -1,8 +1,8 @@
 import smtplib
 
-EMAIL = "landerbui13@gmail.com"
-PW = "huy,pro,13,02,!"
-TO_EMAIL = "huy.130297@gmail.com"
+EMAIL = #insert your email here
+PW = #insert email password here
+TO_EMAIL = #insert recipient
 
 
 class NotificationManager:
